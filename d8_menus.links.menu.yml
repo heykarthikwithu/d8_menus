@@ -1,0 +1,5 @@
+entity.d8_menus.collection:
+  title: D8 Menus
+  parent: system.admin_structure
+  description: 'D8 menus examples.'
+  route_name: entity.d8_menus.collection

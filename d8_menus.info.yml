@@ -1,0 +1,5 @@
+name: D8 Menus
+type: module
+description: A sample code for d8 menus.
+package: Development
+core: 8.x
